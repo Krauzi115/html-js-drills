@@ -39,7 +39,7 @@ function addFavoriteThings() {
 }
 
 function replaceImage() {
-  console.log('Called replaceImage()');
+  console.log('Called replaceImage(RamezAttia.jpg)');
 
   // Change the puppy picture to a picture of your choosing
 
